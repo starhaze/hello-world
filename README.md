@@ -1,2 +1,5 @@
 # hello-world
-test
+
+Cześć, tu Tomasz
+
+Robie pierwszego gita
